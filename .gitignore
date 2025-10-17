@@ -1,0 +1,6 @@
+# 忽略 Chilean_BEV_Cache 中的数据文件
+data/Chilean_BEV_Cache/*.pickle
+
+# 忽略这些脚本（如果不需要）
+scripts/analyze_cache.py
+scripts/verify_cache.py
