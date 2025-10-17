@@ -52,7 +52,7 @@ python evaluation/eval_pipeline.py --config configs/config_base.yaml
 ## 实施进度
 
 - [x] Day 1: 项目结构搭建
-- [ ] Day 2-3: BEV预处理实现
+- [x] Day 2-3: BEV预处理实现
 - [ ] Day 4: 数据集实现
 - [ ] Day 5-6: 方向1网络实现
 - [ ] ...
