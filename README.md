@@ -48,15 +48,6 @@ python training/train_bci.py --config configs/config_bci_matching.yaml
 ```bash
 python evaluation/eval_pipeline.py --config configs/config_base.yaml
 ```
-
-## 实施进度
-
-- [x] Day 1: 项目结构搭建
-- [x] Day 2-3: BEV预处理实现
-- [ ] Day 4: 数据集实现
-- [ ] Day 5-6: 方向1网络实现
-- [ ] ...
-
 ## 引用
 
 如果使用本项目，请引用：
